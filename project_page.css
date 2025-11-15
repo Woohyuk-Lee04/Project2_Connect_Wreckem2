@@ -1,0 +1,67 @@
+header {
+    background-color: #ECC1AF;
+    border-radius: 20px;
+    padding: 0;
+    margin: auto;
+}
+
+header ul{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+header ul li {
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    margin: 0 auto;
+    padding: 2px 8px;
+    list-style: none;
+}
+
+header ul li.signup {
+    background-color: blue;
+}
+
+header ul li.userimage {
+    width: 30px;
+    height: 30px;
+    padding: 0 0;
+    border-radius: 50%;
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+header ul li img {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+}
+
+h1 {
+    color: blue;
+}
+
+div {
+    display: flex;
+    justify-content: right;
+}
+div button {
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+div button img {
+    width: 30px;
+    height: 30px;
+}
+div input {
+    height: 30px;
+}
