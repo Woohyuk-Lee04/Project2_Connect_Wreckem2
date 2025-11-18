@@ -20,6 +20,9 @@
 - GitHub Pages
 ## Individual Contributions Sample
 ### Elliot
+	•	Created the Project Listings page (project_page.html)
+	•	Implemented page layout including header navigation and search bar
+	•	Designed project cards and basic page structure using HTML/CSS
 ### Makayla
 ### Nico
 ### Paolo
