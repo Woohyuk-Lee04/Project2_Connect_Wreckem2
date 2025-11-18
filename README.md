@@ -8,11 +8,10 @@
 ## Project Description
 "NetworkU" (Connect Platform) is a web-based tool that helps Texas Tech University students connect with companies for internships and projects. It was created to solve the problem of limited local opportunities by providing a platform focused on TTU students and employers. The site allows students to browse available projects, companies to post listings, and both sides to collaborate more efficiently.
 ## Pages Implemented
-1. Landing Page (index.html)
-2. Student Dashboard (student-dashboard.html)
-3. Company Dashboard (company-dashboard.html)
-4. Project Listings (project_page.html)
-5. Internship Listings (internships.html)
+1. Main Page (index.html)
+2. UserInformation Page (userinfo.html)
+3. Projects Page (project_page.html)
+4. Internships Page (internship_page.html)
 ## Technologies Used
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
