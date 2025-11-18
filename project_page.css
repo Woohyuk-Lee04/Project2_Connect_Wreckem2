@@ -1,4 +1,5 @@
 header {
+    border: 1px solid black;
     background-color: #ECC1AF;
     border-radius: 20px;
     padding: 0;
@@ -14,6 +15,7 @@ header ul{
 }
 
 header ul li {
+    border: 1px solid darkblue;
     background-color: green;
     border-radius: 5px;
     color: white;
@@ -46,7 +48,7 @@ h1 {
     color: blue;
 }
 
-div {
+div.search {
     display: flex;
     justify-content: right;
 }
@@ -64,4 +66,36 @@ div button img {
 }
 div input {
     height: 30px;
+}
+
+div.cards {
+    border: 5px blue;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 20px;
+    padding: 40px;
+    display: flex;
+}
+
+div.card {
+    position: relative;
+    background-color: #DAFFD9;
+    border: 2px solid blue;
+    border-radius: 10px;
+    padding: 20px;
+    width: 48%
+}
+
+img.logo {
+    position: absolute;
+    width: 40px;
+    top: 30px;
+    right: 20px;
+}
+
+footer.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
 }
