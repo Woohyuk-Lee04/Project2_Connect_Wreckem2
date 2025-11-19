@@ -19,6 +19,15 @@
   background-color: #ffffff;
 }
 
+.userImage {
+  width: 41px;
+
+  position: absolute;
+  top: 2px;
+  right: 15px;
+  border-radius: 50%;
+}
+
 .box .istockphoto {
   position: absolute;
   top: 56px;
