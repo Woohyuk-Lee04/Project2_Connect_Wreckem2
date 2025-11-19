@@ -3,7 +3,7 @@
 ## Team Members
 - Elliot - WoohyukLee-04
 - Makayla - [GitHub Username]
-- Nico - [GitHub Username]
+- Nico - NicolasG132
 - Paolo - [GitHub Username]
 ## Project Description
 "NetworkU" (Connect Platform) is a web-based tool that helps Texas Tech University students connect with companies for internships and projects. It was created to solve the problem of limited local opportunities by providing a platform focused on TTU students and employers. The site allows students to browse available projects, companies to post listings, and both sides to collaborate more efficiently.
