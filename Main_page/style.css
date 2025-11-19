@@ -5,11 +5,9 @@
 }
 
 .box .group {
-  position: fixed;
-  top: -217px;
-  left: -285px;
-  width: 614px;
-  height: 823px;
+  position: absolute;
+  top: 50px;
+  left: 130px;
 }
 
 .box .rectangle {
