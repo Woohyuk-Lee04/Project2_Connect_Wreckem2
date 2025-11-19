@@ -1,10 +1,10 @@
 # Connect Platform - Project 2
 ## Team Name/Number: Wreckem 2
 ## Team Members
-- Elliot - WoohyukLee-04
+- Elliot - Woohyuk-Lee04
 - Makayla - [GitHub Username]
 - Nico - NicolasG132
-- Paolo - [GitHub Username]
+- Paolo - paolo564
 ## Project Description
 "NetworkU" (Connect Platform) is a web-based tool that helps Texas Tech University students connect with companies for internships and projects. It was created to solve the problem of limited local opportunities by providing a platform focused on TTU students and employers. The site allows students to browse available projects, companies to post listings, and both sides to collaborate more efficiently.
 ## Pages Implemented
