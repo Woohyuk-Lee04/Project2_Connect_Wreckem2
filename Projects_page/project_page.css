@@ -7,7 +7,7 @@ header {
     box-shadow: 2px 2px 2px;
 }
 
-header ul{
+header ul {
     align-items: center;
     justify-content: center;
     display: flex;
@@ -25,6 +25,16 @@ header ul li {
     list-style: none;
 }
 
+header ul li a { 
+    text-decoration: none;
+    color: inherit;
+}
+
+header ul li a:hover {
+    color: #ececec;
+    opacity: 0.8;
+}
+
 header ul li.signup {
     background-color: blue;
 }
@@ -32,14 +42,17 @@ header ul li.signup {
 header ul li.userimage {
     width: 30px;
     height: 30px;
-    padding: 0 0;
+    padding: 0;
     border-radius: 50%;
     background-color: blue;
     justify-content: center;
     align-items: center;
     display: flex;
 }
+
 header ul li img {
+    align-items: center;
+    display: flex;
     width: 28px;
     height: 28px;
     border-radius: 50%;
@@ -70,7 +83,6 @@ div input {
 }
 
 div.cards {
-    border: 5px blue;
     justify-content: space-between;
     gap: 30px;
     margin-top: 20px;
