@@ -12,6 +12,9 @@
 2. UserInformation Page (userinfo.html)
 3. Projects Page (project_page.html)
 4. Internships Page (internship_page.html)
+5. About Us Page (about.html)
+6. Sign up Page (signup_page.html)
+
 ## Technologies Used
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
@@ -19,9 +22,10 @@
 - GitHub Pages
 ## Individual Contributions Sample
 ### Elliot
-	•	Created the Project Listings page (project_page.html)
+	•	Created the Project Listings page (project_page.html), Sign up page (signup_page.html), and About us page (about.html)
 	•	Implemented page layout including header navigation and search bar
 	•	Designed project cards and basic page structure using HTML/CSS
+	•	Added hover animation effects for the project card list
 ### Makayla
 ### Nico
 ### Paolo
