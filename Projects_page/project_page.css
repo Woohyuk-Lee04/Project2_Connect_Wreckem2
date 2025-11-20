@@ -4,6 +4,7 @@ header {
     border-radius: 20px;
     padding: 0;
     margin: auto;
+    box-shadow: 2px 2px 2px;
 }
 
 header ul{
@@ -98,4 +99,12 @@ footer.pagination {
     justify-content: center;
     align-items: center;
     gap: 20px;
+}
+
+.card {
+    transition: all 2s;
+    box-shadow: 2px 2px 2px;
+}
+.card:hover {
+    transform: scale(1.1);
 }
