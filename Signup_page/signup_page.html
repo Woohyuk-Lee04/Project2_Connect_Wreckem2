@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="signup_page.css">
+</head>
+<body>
+     <header>
+        <ul>
+            <li><a href="../Main_page/main.html">Home</a></li>
+            <li><a href="../About_page/about.html">About us</a></li>
+            <li><a href="../Internships_page/internship_page.html">Internships</a></li>
+            <li><a href="../Projects_page/project_page.html">Projects</a></li>
+            <li class="signup"><a href="signup_page.html">Sign Up</a></li>
+            <li class="userimage">
+                <a href="../Userinfo_page/userinfo.html">
+                    <img src="../images/userImage.png">
+                </a>
+            </li>
+        </ul>
+    </header>
+    <h1>Sign Up</h1>
+    <div class="signup-form">
+        <form method="post">
+            Email : <input type="email" name="email" placeholder="Enter your email"><br>
+            Password : <input type="password" name="password" placeholder="Enter your password"><br>
+            Name : <input type="text" name="lastname" placeholder="Last name"> <input type="text" name="firstname" placeholder="First name"><br>
+            Gender : M<input type="radio" name="gender"> F<input type="radio" name="gender"> Other<input type="radio" name="gender"><br>
+            Birthday : <input type="date" name="birthday"><br>
+            Major : <select name="major">
+                <option>Select your major</option>
+                <option value="CS">Computer Science</option>
+                <option value="EE">Electrical Engineering</option>
+                <option value="ME">Mechanical Engineering</option>
+                <option value="Math">Math</option>
+                <option value="Bs">Business</option>
+            </select><br>
+            Phone : <input type="text" name="phone" placeholder="Enter your phone number"><br>
+            <button>Sign Up</button>
+        </form>
+    </div>
+</body>
+</html>
