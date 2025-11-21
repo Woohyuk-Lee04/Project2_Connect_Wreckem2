@@ -28,6 +28,8 @@
 	•	Added hover animation effects for the project card list
 ### Makayla
 ### Nico
+	•	Created the Internships page (internships.html)
+	•	Put in actual internships for certain concentrations like AI, Cyber Security, and Data analyst
 ### Paolo
 	•	Created the main.html page with Div, and created the globals.css and style.css for the main page. 
 	•	Used the navigation bar and added images into the code to make it look more aesthetically pleasing 
