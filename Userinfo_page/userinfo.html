@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <title class="title">User Information</title>
+    
+</head>
+<body>
+    <!--NAVBAR-->
+    <nav>
+        <div class="left">
+            <a href="/">NetwrkU</a>
+        </div>
+         
+        <div class="right">
+            <a href="http://github.com" target="_blank" rel="noopener noreferrer">
+                <i class="fa-brands fa-github"></i>
+                <span>Github</span>
+            </a>
+
+             <a href="http://linkedin.com" target="_blank" rel="noopener noreferrer">
+                 <i class="fa-brands fa-square-linkedin"></i>
+                <span>Linkedin</span>
+            </a>
+
+             <a href="mailto:matt@example.com">
+                 <i class="fa-solid fa-envelope"></i>
+                <span>Email</span>
+            </a>
+
+        </div>
+    </nav>
+
+    <main>
+        <!--SECTION 1: HERO-->
+        <section class="hero-section">
+            <div class="text">
+                <h2>Hi, Welcome to NetwrkU!</h2>
+                <p>Do you have a resume that will launch your career to the next level? We're here to help! Here at NetwrkU, our team is dedicated to provide personalized resume critiques and career guidance to help you land your dream job or project. Whether you're a student, recent graduate, or seasoned professional, we'll work with you to identify opportunites in your desired field and tailor your application materials to showcase your skills and expertise.</p>
+                <div class="links">
+                    <a href="#Resume">
+                        <i class="fa-solid fa-code"></i>
+                        <span>Upload Resume</span>
+                    </a>
+
+                    <a href="#testimony">
+                        <i class="fa-solid fa-pen"></i>
+                        <span>Upload Pojects</span>
+                    </a>
+
+                    <a href="#Contect">
+                        <i class="fa-solid fa-envelope"></i>
+                        <span>Information About Me</span>
+                    </a>
+                </div>
+            </div>
+
+            <div class="headshot">
+                <img src="images/download.webp" alt="Matthew Boden Headshot">
+            </div>
+        </section>
+
+
+         <!--SECTION 2: Chatbox-->
+        <section id="chatbox" class="chatbox-section">
+            <h2>Chatbox</h2>
+
+            <div class="group">
+                <div class="text">
+                    Send us a message, and we'll get back to you soon to discuss how we can support your career goals!
+                </div>
+
+                <form>
+                    <label for="name">Name</label>
+                    <input type="text" id="name">
+
+                    <label for="Email">Email</label>
+                    <input type="email" id="email">
+
+                    <label for="messsage"> Message our Resume Critique Team!</label>
+                    <textarea id="message" cols="30" rows="10"></textarea>
+
+                    <button type="submit">Send Message</button>
+                </form>
+            </div>
+        </section>
+
+    </main>
+</body>
+</html>
