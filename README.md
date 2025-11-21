@@ -29,3 +29,7 @@
 ### Makayla
 ### Nico
 ### Paolo
+	•	Created the main.html page with Div, and created the globals.css and style.css for the main page. 
+	•	Used the navigation bar and added images into the code to make it look more aesthetically pleasing 
+	•	Used both CSS and HTML to complete the project
+

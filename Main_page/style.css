@@ -44,6 +44,7 @@
   left: 0;
   width: 618px;
   height: 43px;
+  color: white;
 }
 
 .box .div {
@@ -115,6 +116,16 @@
   border-radius: 5px;
   border: 1px solid;
   border-color: #041094;
+}
+
+.box a:hover {
+    color: #ececec;
+    opacity: 0.8;
+}
+
+.box a {
+    text-decoration: none;
+    color: white;
 }
 
 .box .text-wrapper {
