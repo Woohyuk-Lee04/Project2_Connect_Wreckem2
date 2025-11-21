@@ -28,4 +28,6 @@
 	•	Added hover animation effects for the project card list
 ### Makayla
 ### Nico
+	•	Created the Internships page (internships.html)
+	•	Put in actual internships for certain concentrations like AI, Cyber Security, and Data analyst
 ### Paolo
