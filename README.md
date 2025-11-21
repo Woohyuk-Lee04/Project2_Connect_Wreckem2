@@ -2,7 +2,7 @@
 ## Team Name/Number: Wreckem 2
 ## Team Members
 - Elliot - Woohyuk-Lee04
-- Makayla - [GitHub Username]
+- Makayla - makaylayussuf
 - Nico - NicolasG132
 - Paolo - paolo564
 ## Project Description
@@ -27,6 +27,9 @@
 	•	Designed project cards and basic page structure using HTML/CSS
 	•	Added hover animation effects for the project card list
 ### Makayla
+•	Created the User Information Page (Userinfo_page)
+	•	Designed project cards and basic page structure using HTML/CSS
+
 ### Nico
 	•	Created the Internships page (internships.html)
 	•	Put in actual internships for certain concentrations like AI, Cyber Security, and Data analyst
